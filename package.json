@@ -1,0 +1,26 @@
+{
+  "name": "startsys-react-speech-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Speech.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "bowser": "^2.11.0",
+    "react": "^18.2.0",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "@testing-library/react": "^14.0.0",
+    "bowser": "^2.11.0",
+    "jest": "^29.5.0",
+    "react": "^18.2.0",
+    "sweetalert": "^2.1.2"
+  }
+}
