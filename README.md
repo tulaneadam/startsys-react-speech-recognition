@@ -65,3 +65,8 @@ Contributions are welcome! Please submit a pull request on our GitHub page.
 ## License
 
 This project is licensed under the MIT License.
+
+## Internal Use
+
+Before publishing, run:
+npm i && npm run build && npm login
