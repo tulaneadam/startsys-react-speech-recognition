@@ -1,6 +1,9 @@
 # startsys-react-speech-recognition
 
 A simple React component to transcribe speech to text using the Web Speech API.
+A demo app using this library can be found here:
+
+[startsys-react-speech-recognition-v2](https://github.com/tulaneadam/startsys-react-speech-recognition-v2)
 
 ## Installation
 
