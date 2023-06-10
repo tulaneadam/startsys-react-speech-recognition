@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 
 ## Internal Use
 
-Before publishing, run:
+Before publishing, add 1 ro package.json and run:
 npm i && npm run build && npm login
