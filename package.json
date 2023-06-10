@@ -1,10 +1,11 @@
 {
   "name": "startsys-react-speech-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "Speech.js",
+  "main": "lib/Speech.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "babel src -d lib"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
     "sweetalert": "^2.1.2"
   },
   "devDependencies": {
+    "@babel/cli": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
     "@babel/preset-react": "^7.22.5",
     "@testing-library/react": "^14.0.0",
